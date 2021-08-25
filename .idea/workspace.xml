@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="244ed486-83e8-4944-bcda-56fb5964977e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/course_tasks/29.04.21/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_tasks/29.04.21/random.txt" afterDir="false" />
+    <list default="true" id="244ed486-83e8-4944-bcda-56fb5964977e" name="Default Changelist" comment="all vars">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.05.21/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.05.21/variant_6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_tasks/13.05.21/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_tasks/13.05.21/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_tasks/13.05.21/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_tasks/13.05.21/HW8_Malyukova.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_tasks/13.05.21/main_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/prime_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +41,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/21.05.21" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Easy_it_github\easy_it\21.05.21" />
+      <recent name="D:\Easy_it_github\easy_it\course_tasks\13.05.21" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Easy_it_github\easy_it\course_tasks\13.05.21" />
       <recent name="D:\Easy_it_github\easy_it\course_tasks" />
       <recent name="D:\Easy_it_github\easy_it\29.04.21" />
       <recent name="$PROJECT_DIR$/course_tasts/for_02.04.21" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="10_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="easy_it" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,34 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_tasts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_tasts/for_02.04.21/10_a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="easy_it" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_tasks/29.04.21" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_tasks/29.04.21/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_tasts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_tasts/for_02.04.21/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="easy_it" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_tasks/29.04.21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21.05.21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_tasks/29.04.21/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21.05.21/6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW8_Malyukova" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="easy_it" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,12 +133,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_tasts/for_02.04.21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course_tasks/13.05.21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_tasts/for_02.04.21/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course_tasks/13.05.21/HW8_Malyukova.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="easy_it" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Easy_it_github\easy_it\practice\prime_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.10_a" />
         <item itemvalue="Python.4" />
+        <item itemvalue="Python.3" />
+        <item itemvalue="Python.prime_number" />
+        <item itemvalue="Python.6" />
+        <item itemvalue="Python.HW8_Malyukova" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +189,36 @@
       <updated>1617280974262</updated>
       <workItem from="1617280975653" duration="5667000" />
       <workItem from="1617286728132" duration="632000" />
+      <workItem from="1620901872233" duration="7571000" />
+      <workItem from="1620925969484" duration="783000" />
+      <workItem from="1620938270961" duration="4917000" />
+      <workItem from="1621598764012" duration="606000" />
+      <workItem from="1621599465690" duration="503000" />
+      <workItem from="1621617982806" duration="660000" />
+      <workItem from="1629878876634" duration="4098000" />
     </task>
+    <task id="LOCAL-00001" summary="all vars">
+      <created>1620901926100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620901926100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="profs">
+      <created>1620903711619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620903711619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated profs">
+      <created>1620904525116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620904525116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,15 +236,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all vars" />
+    <MESSAGE value="profs" />
+    <MESSAGE value="updated profs" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated profs" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/easy_it$4.coverage" NAME="4 Coverage Results" MODIFIED="1617305124037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts/for_02.04.21" />
+    <SUITE FILE_PATH="coverage/easy_it$9.coverage" NAME="9 Coverage Results" MODIFIED="1620941702012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasks/13.05.21" />
     <SUITE FILE_PATH="coverage/easy_it$4__1_.coverage" NAME="4 (1) Coverage Results" MODIFIED="1617301327073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/загрузка" />
-    <SUITE FILE_PATH="coverage/easy_it$0.coverage" NAME="0 Coverage Results" MODIFIED="1617303619301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts" />
-    <SUITE FILE_PATH="coverage/easy_it$test.coverage" NAME="test Coverage Results" MODIFIED="1617305074159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts/for_02.04.21" />
+    <SUITE FILE_PATH="coverage/easy_it$HW8_Malyukova.coverage" NAME="HW8_Malyukova Coverage Results" MODIFIED="1620943031985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasks/13.05.21" />
+    <SUITE FILE_PATH="coverage/easy_it$3.coverage" NAME="3 Coverage Results" MODIFIED="1629884218980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/easy_it$10.coverage" NAME="10_a Coverage Results" MODIFIED="1617285636290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts" />
-    <SUITE FILE_PATH="coverage/easy_it$_5.coverage" NAME="-5 Coverage Results" MODIFIED="1617282506059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts" />
+    <SUITE FILE_PATH="coverage/easy_it$test.coverage" NAME="test Coverage Results" MODIFIED="1629883987753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/easy_it$2.coverage" NAME="2 Coverage Results" MODIFIED="1619722910902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasks/29.04.21" />
-    <SUITE FILE_PATH="coverage/easy_it$6.coverage" NAME="6 Coverage Results" MODIFIED="1617305981939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts/for_02.04.21" />
+    <SUITE FILE_PATH="coverage/easy_it$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1620904475911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasks/13.05.21" />
+    <SUITE FILE_PATH="coverage/easy_it$6.coverage" NAME="6 Coverage Results" MODIFIED="1621599871307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21.05.21" />
+    <SUITE FILE_PATH="coverage/easy_it$main_3.coverage" NAME="main_3 Coverage Results" MODIFIED="1620910454486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasks/13.05.21" />
+    <SUITE FILE_PATH="coverage/easy_it$4.coverage" NAME="4 Coverage Results" MODIFIED="1629885000906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/easy_it$0.coverage" NAME="0 Coverage Results" MODIFIED="1617303619301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts" />
+    <SUITE FILE_PATH="coverage/easy_it$_5.coverage" NAME="-5 Coverage Results" MODIFIED="1617282506059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasts" />
     <SUITE FILE_PATH="coverage/easy_it$main.coverage" NAME="main Coverage Results" MODIFIED="1619729011709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_tasks/29.04.21" />
   </component>
 </project>
